@@ -1,3 +1,3 @@
 # Django POC
 
-This project was created for learning the basic concepts of Django framework. It involves important classes for creating APIs, interacting with the database using ORM, user authentication, database migrations along with token creation after successful authentication. It also involves CRUD operations for user model. For serializations of the JSON response, custom serializers were also implemented.
+This project was created for learning the basic concepts of Django framework. It involves important classes for creating APIs, interacting with the database using ORM, user authentication, database migrations along with token creation after successful authentication. It also involves CRUD operations for user model. For serializations of the JSON request/response, custom serializers were also implemented.
